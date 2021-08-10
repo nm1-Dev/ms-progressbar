@@ -5,8 +5,6 @@ New QBCore (Qbus) Smooth ProgressBar
 Just Download It And Add `ms-progressbar` To The Server.cfg or resources.cfg
 
 # Our Discord Community :
-https://discord.gg/NBdDEedsNr
+https://discord.gg/NBdDEedsNr![unknown](https://user-images.githubusercontent.com/85759042/128937743-ec1ceade-6df2-4cca-942f-6450c11e8f39.png)
+
 Made BY : @nm1-Dev
-
-
-https://cdn.discordapp.com/attachments/757535951869444116/874747315745853490/unknown.png
